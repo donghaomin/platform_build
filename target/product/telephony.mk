@@ -20,6 +20,7 @@
 PRODUCT_PACKAGES := \
     CellBroadcastReceiver \
     Dialer \
+    InCallUI \
     Mms \
     rild \
     Stk

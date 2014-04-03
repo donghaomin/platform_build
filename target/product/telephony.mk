@@ -18,8 +18,10 @@
 # to products that have telephony hardware.
 
 PRODUCT_PACKAGES := \
+    CellBroadcastReceiver \
     Dialer \
     Mms \
-    rild
+    rild \
+    Stk
 
 PRODUCT_COPY_FILES := \
